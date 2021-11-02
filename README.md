@@ -1,5 +1,5 @@
 - Hi, I’m Tim @TZolb
-- I’m interested in many things! Hopefully I can collect some interesting ideas, files and projects here. I like Data Science, ML ans STEM in general!
+- I’m interested in many things! Hopefully I can collect some interesting ideas, files and projects here. I love science in general!
 - main areas of interest: 
   [professional] digital health and medical related topics, data visualization, ML and AI, applied Physics
   [personal] Linux, Raspberry Pi Programming, Retro gaming and emulation
